@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXboCQHKmioaGpUOgA8rkxvBhRZBLn/PexuXjSfdGWoLuieGrZdjx2Q0pKRl2VDGzqd84jpGqbyxvk7eHfQpWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marethyu\\Documents\\Godot Projects\\hole\\3d Tutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marethyu\\.nuget\\packages\\godot.sourcegenerators\\4.1.2\\godot.sourcegenerators.4.1.2.nupkg.sha512",
+    "C:\\Users\\Marethyu\\.nuget\\packages\\godotsharp\\4.1.2\\godotsharp.4.1.2.nupkg.sha512",
+    "C:\\Users\\Marethyu\\.nuget\\packages\\godotsharpeditor\\4.1.2\\godotsharpeditor.4.1.2.nupkg.sha512",
+    "C:\\Users\\Marethyu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Marethyu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Marethyu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+Node
+AnimationPlayer
+Camera3D
+Node3D
+MeshInstance3D
+CharacterBody3D
+CSGBox3D
+Sprite2D

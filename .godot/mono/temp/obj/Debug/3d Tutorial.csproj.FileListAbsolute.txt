@@ -1,0 +1,17 @@
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\bin\Debug\3d Tutorial.deps.json
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\bin\Debug\3d Tutorial.runtimeconfig.json
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\bin\Debug\3d Tutorial.dll
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\bin\Debug\3d Tutorial.pdb
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\3d Tutorial.csproj.AssemblyReference.cache
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\3d Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\3d Tutorial.AssemblyInfoInputs.cache
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\3d Tutorial.AssemblyInfo.cs
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\3d Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\3d Tutorial.csproj.CopyComplete
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\3d Tutorial.dll
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\refint\3d Tutorial.dll
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\3d Tutorial.pdb
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\3d Tutorial.genruntimeconfig.cache
+C:\Users\Marethyu\Documents\Godot Projects\3d Tutorial\.godot\mono\temp\obj\Debug\ref\3d Tutorial.dll

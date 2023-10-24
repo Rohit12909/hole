@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1698176907
+BasicScene.cs::CSharpScript::-1::1698168089::0::1::::<><>::
+BasicScene.tscn::PackedScene::5197146643629708241::1698176655::0::1::::<><>::uid://djctyq7uos13r::::res://player.tscn
+icon.svg::CompressedTexture2D::6729980236135362250::1698162909::1698162684::1::::<><>::
+player.cs::CSharpScript::-1::1698175710::0::1::::<><>::
+player.tscn::PackedScene::7796287771981493793::1698175714::0::1::::<><>::res://player.cs
